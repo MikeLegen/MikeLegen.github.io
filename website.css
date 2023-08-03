@@ -13,11 +13,6 @@ body, .diagonal-gradient {
  background-image:linear-gradient(to bottom right,#855988 10%,#855988 20%,#483475 40%,#2B2F77 50%,#141852 90%,#070B34 100% );
 }
 
-img {
- 
-  width: 471.500;
-  height: 1936;
-}
 
 p{
     color: white;

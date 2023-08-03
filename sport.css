@@ -1,0 +1,59 @@
+
+
+body, .diagonal-gradient {
+	background-image:linear-gradient(to right, rgb(128, 128, 128), #000);
+   }
+   
+body {
+	font-family: 'Baloo 2', cursive;
+}
+.banner-text {
+	width: 100%;
+	position: absolute;
+	z-index: 1;
+}
+.banner-text ul {
+	height: 50px;
+	float: right;
+}
+.banner-text ul li {
+	display: inline-block;
+	padding: 40px 15px;
+	text-transform: uppercase;
+	color: #fff;
+	font-size: 20px;
+}
+.banner-text ul li:hover {
+	cursor: pointer;
+}
+
+.kobes{
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+
+img{
+	margin-left: 200px;
+	margin-top: 200px;
+}
+
+p{
+	width:700px;
+	padding-top:20px;
+	border-style:solid;
+	border-width:0px;
+	padding-left:3px;
+	padding-bottom:0px;
+	word-wrap: break-word;
+  }
+  
+
+p{
+	text-align: right;
+}
+p{
+	position:absolute; right:300px; top:1000px
+}
+p{
+	color: #fff;
+}
